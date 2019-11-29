@@ -17,6 +17,6 @@ Please find the full project breakdown
 2. Click the clone or download button towards the right of your screen
 3. Download and unzip this file. Save the unziped file to a location on your desktop where it is easily accessible
 4. Open the command line and navigate to the location of your downloaded file using a series of cd commands 
-5. Type Jupyter notebook into the command line which will open a web server where you can now see the files you have doenloaded. 
+5. Type Jupyter notebook into the command line which will open a web server where you can now see the files you have downloaded. 
 6. Open the Tips Project.ipynb by clicking  on it now you will be able to view the tips project
 

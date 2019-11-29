@@ -4,8 +4,10 @@
 
 ## Introduction
 
-This assessment concerns the well-known tips dataset and the Python packages seaborn and jupyter notebook. 
-<b> A. Description: </b> Create a jupyter notebook that uses descriptive statistics and plots to describe the tips dataset.
-<b> B. Regression: </b> To the above jupyter notebook add a section that discusses and analyses whether there is a relationship between the total bill and tip amount. 
+This assessment concerns the well-known tips dataset and the Python packages seaborn and jupyter notebook. This project can be brokedn into 3 distinct sections: 
 
-<b> C. Analyse:</b> Analyse the relationship between the variables within the dataset. 
+1. <b><i>Description: </i></b> Create a jupyter notebook that uses descriptive statistics and plots to describe the tips dataset.
+2. <b><i>Regression:</i></b>To the above jupyter notebook add a section that discusses and analyses whether there is a relationship between the total bill and tip amount. 
+3. <b><i>Analyse:</i></b> Analyse the relationship between the variables within the dataset. 
+
+Please find the full project breakdown 

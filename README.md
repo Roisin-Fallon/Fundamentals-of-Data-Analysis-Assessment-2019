@@ -11,3 +11,12 @@ This assessment concerns the well-known tips dataset and the Python packages sea
 3. <b><i>Analyse:</i></b> Analyse the relationship between the variables within the dataset. 
 
 Please find the full project breakdown 
+
+## How to download the repository:
+1. Download the repository from the following link
+2. Click the clone or download button towards the right of your screen
+3. Download and unzip this file. Save the unziped file to a location on your desktop where it is easily accessible
+4. Open the command line and navigate to the location of your downloaded file using a series of cd commands 
+5. Type Jupyter notebook into the command line which will open a web server where you can now see the files you have doenloaded. 
+6. Open the Tips Project.ipynb by clicking  on it now you will be able to view the tips project
+

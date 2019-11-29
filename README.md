@@ -13,7 +13,7 @@ This assessment concerns the well-known tips dataset and the Python packages sea
 Please find the full project breakdown 
 
 ## How to download the repository:
-1. Download the repository from the following link
+1. Download the repository from the following link https://github.com/Roisin-Fallon/Fundamentals-of-Data-Analysis-Project-2019/blob/master/Tips%20Project.ipynb
 2. Click the clone or download button towards the right of your screen
 3. Download and unzip this file. Save the unziped file to a location on your desktop where it is easily accessible
 4. Open the command line and navigate to the location of your downloaded file using a series of cd commands 
